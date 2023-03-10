@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitApi</string>
+    <string name="name">%s</string>
+    <string name="title">%s</string>
+</resources>
